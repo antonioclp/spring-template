@@ -25,7 +25,7 @@
 ### Usage
 
 ```bash
-git clone https://github.com/anttoniogn-dev/spring-template.git
+git clone git@github.com:antonioclp/spring-template.git
 
 cd spring-template
 
